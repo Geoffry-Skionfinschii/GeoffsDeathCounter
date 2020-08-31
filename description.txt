@@ -1,0 +1,2 @@
+It counts deaths and actually supports multiplayer.
+/deaths
